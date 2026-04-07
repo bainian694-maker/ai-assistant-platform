@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775560048378,
+      "tag": "0000_kind_genesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775560179175,
+      "tag": "0001_natural_nighthawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775560715409,
+      "tag": "0002_young_sway",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1775564529916,
+      "tag": "0003_silent_tyrannus",
+      "breakpoints": true
+    }
+  ]
+}
